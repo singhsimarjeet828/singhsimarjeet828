@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**singhsimarjeet828/singhsimarjeet828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Simarjeet Singh**, a passionate **Front-End / Web Developer** who enjoys turning ideas into responsive and user-friendly web experiences. I focus on building modern, scalable interfaces using the latest web technologies.
 
-Here are some ideas to get you started:
+💻 **Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML • CSS • JavaScript • React • Next.js • Redux • Tailwind • Bootstrap •
+GSAP • Framer Motion • REST APIs • Git • SQL • MongoDB
+
+🚀 **What I like to work on**
+
+* Responsive and accessible UI
+* Interactive animations and smooth user experiences
+* Clean and maintainable code
+
+🌱 **Currently Learning**
+
+* MERN Stack (MongoDB, Express, React, Node.js)
+* Advanced React & Next.js patterns
+
+📫 Always open to learning, collaboration, and exciting web projects.
